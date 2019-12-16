@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+}
+
+.div{
+	width: 300px;
+	height: 1000px;
+	background-color: #eeeeee;
+	color: #00FF00; 
+	font-size: 20px; 
+	font-family: helvetica, verdana;
+	font-weight: bold;	
+	text-align: center;
+	text-transform: lowercase;
+	text-decoration: underline;
+	margin: auto;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+
+.flutuante{
+	background-color: yellow;
+	height: 100px;
+	position: fixed;
+	right: 0px;
+	bottom: 0px;
+}

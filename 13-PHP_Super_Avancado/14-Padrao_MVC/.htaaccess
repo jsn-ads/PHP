@@ -1,0 +1,11 @@
+RewriteEngine On
+
+//impede que arquivos e fotos sejam acessados pela URL
+RewriteCond %{REQUEST_FILENAME} !-f 
+
+//impede que pastas sejam acessados pela URL
+RewriteCond %{REQUEST_FILENAME} !-d
+
+//padroniza a URL
+RewriteRule ^(.*)$ /JOB/PROJETOSWEB/PHP/13-PHP_Super_Avancado/14-Padrao_MVC/index.php?url=$1 [QSA,L]
+

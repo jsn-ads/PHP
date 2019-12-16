@@ -1,0 +1,11 @@
+.botao{
+    width: 150px;
+    height: 35px;
+    background-color: chocolate;
+    cursor: pointer;
+}
+
+.cor{
+   background-color: blue;
+   color: antiquewhite; 
+}

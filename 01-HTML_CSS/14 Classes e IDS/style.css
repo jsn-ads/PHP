@@ -1,0 +1,24 @@
+body{
+	background-color: green;
+	color:white;
+}
+
+h1{
+	color: yellow;
+}
+
+img{
+	width: 200px;
+}
+
+.google1{
+	width: 500px; 
+}
+
+#titulo{
+	font-size: 12px;
+}
+
+.titulo{
+	color: red;
+}

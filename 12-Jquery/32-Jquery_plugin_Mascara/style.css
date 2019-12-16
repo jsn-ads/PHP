@@ -1,0 +1,24 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+}
+
+#formulario{
+    width: 200px;
+    margin-top: 20vh;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+
+.form-group{
+    width: 180px;
+    padding-left: 20px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    text-align: center;
+}

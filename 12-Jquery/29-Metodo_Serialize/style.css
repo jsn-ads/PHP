@@ -1,0 +1,25 @@
+.container-fluid{
+    display: flex;
+    justify-content: center;
+}
+
+#form-login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20vh;
+    width: 300px;
+    background-color: slategray;
+    border-radius: 5px;
+}
+
+.form-group{
+    margin: 10px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    text-align: center;
+}

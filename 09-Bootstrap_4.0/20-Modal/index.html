@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
+    <title>Modal</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <button class="btn btn-outline-primary" data-toggle="modal" data-target="#janela">Abrir</button>
+        <div class="modal fade" id="janela">
+            <!--
+                modal-dialog-centered -> centraliza a janela ao meio da tela
+                modal-lg -> aumenta a janela
+                modal-sm -> diminui a tela
+            -->
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Titulo</h5>
+                        <button class="close" data-dismiss="modal">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col">Item 1</div>
+                            <div class="col">Item 2</div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary">Salvar</button>
+                        <button class="btn btn-danger" data-dismiss="modal">Cancelar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../jquery.min.js"></script>
+    <script type="text/javascript" src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

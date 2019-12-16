@@ -1,0 +1,7 @@
+.htaccess
+    // evita que acesse pasta de imagens  e arquivos pela URL
+    RewriteCond %{REQUEST_FILENAME} !-f 
+    // evita que acesse pasta pela URL
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    

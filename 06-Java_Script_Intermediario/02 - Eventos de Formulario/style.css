@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	display: flex;
+	justify-content: center;
+}
+
+.flex{
+	display: flex;
+	flex-direction: column;
+	margin-top: 50px;
+}
+
+input{
+	margin: 10px;		
+}

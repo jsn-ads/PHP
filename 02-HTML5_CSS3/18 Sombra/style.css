@@ -1,0 +1,17 @@
+.teste{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 100px;
+	box-shadow: 5px 5px 5px #888888; 
+}
+
+.texto{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 50px;
+	color: green;
+	text-shadow: 5px 5px 5px #888888;
+}

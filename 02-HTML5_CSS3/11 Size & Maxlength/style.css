@@ -1,0 +1,9 @@
+body{
+	margin: 0;
+	margin-top: 10px;
+	background-color: #ddd;
+}
+
+input{
+	size: 5px;
+}

@@ -1,0 +1,15 @@
+.teste{
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+	background: linear-gradient(90deg,pink,blue);
+	background: -moz-linear-gradient(pink,blue);
+	background: -o-linear-gradient(pink,blue);
+	background: -webkit-gradient(pink,blue);
+}
+
+/*
+
+moz - o - webkit  sao usado para proteçoes pois nem todas 
+as versoes dos navegadores suporta o degrade
+*/

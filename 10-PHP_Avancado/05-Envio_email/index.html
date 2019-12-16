@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Envio de E-mail</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <form method="POST" action="email.php">
+                    <div class="form-group">
+                        <input class="form-control" type="text" name="nome" placeholder="Name ...">
+                    </div>
+                    <div class="form-group">
+                        <input class="form-control" type="email" name="email" placeholder="E-mail ...">
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" name="msg" placeholder="Menssagens ..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <input class="btn btn-outline-primary" type="submit" value="Enviar">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/js/bootstrap.bundle.min.js"></script>
+    <div class=""></div>
+</body>
+</html>

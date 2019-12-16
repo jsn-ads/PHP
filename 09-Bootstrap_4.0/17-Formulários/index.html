@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
+    <title>Formularios</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <form method="POST">
+            <div class="form-group">
+                <!--
+                    form-control-lg
+                    form-control-sm
+                    form-control-plaintext
+                    desativar campo = readonly
+                -->
+                <input type="text" name="email" class="form-control" placeholder="E-mail"/>
+            </div>
+            <div class="form-group">
+                <input type="password" name="senha" class="form-control" placeholder="Senha"/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Entrar" class="btn btn-outline-primary"/>
+            </div>
+        </form>
+
+        <form method="POST" class="form-inline">
+            <div class="form-group">
+                <input type="text" name="email" class="form-control" placeholder="E-mail"/>
+            </div>
+            <div class="form-group">
+                <input type="password" name="senha" class="form-control" placeholder="Senha"/>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Entrar" class="btn btn-outline-primary"/>
+            </div>
+        </form>
+
+        <div class="form-row">
+            <div class="col">
+                <div class="form-group">
+                    <input type="text" name="email" class="form-control" placeholder="E-mail"/>
+                </div>
+            </div>
+            <div class="col">
+                    <div class="form-group">
+                        <input type="password" name="senha" class="form-control" placeholder="Senha"/>
+                    </div>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="col">
+                <div class="form-group">
+                    <input type="submit" value="Entrar" class="btn btn-outline-primary"/>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="../jquery.min.js"></script>
+    <script type="text/javascript" src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+#teste{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+
+#teste2{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	margin-left: 50px;
+	margin-top: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+	
+
+input{
+	margin-top: 20px;
+	margin-left: 50px;
+	border: solid 1px;
+	border-radius: 7px;
+}

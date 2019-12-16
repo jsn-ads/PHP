@@ -1,0 +1,6 @@
+.texto{
+	width: 200px;
+	height: 200px;
+	background-color: #DDD;
+	word-wrap: break-word;
+}

@@ -1,0 +1,30 @@
+.row .col{
+    display: flex;
+    justify-content: center;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20vh;
+    width: 400px;
+    height: 250px;
+    border-radius: 15px;
+}
+
+.form-group{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 350px;
+}
+
+.form-control{
+    text-align: center;
+}
+
+.campo{
+    background-color: silver;
+}

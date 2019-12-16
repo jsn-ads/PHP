@@ -1,0 +1,16 @@
+.corpo{
+    display: flex;
+    justify-content: center;    
+    width: 1000px;
+}
+
+.container{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+.texto{
+    width: 300px;
+    margin: 5px;
+}

@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	font-family: "Times New Roman", Times;
+}
+
+header{
+	height: 50px;
+	display: flex; 
+	justify-content: center;
+	background-color: #35464e;
+}
+
+.topo{
+	display: flex;
+	align-items: center;
+	color: #eef0ff;
+}
+
+.container{
+	width: 1000px;
+	display: flex;
+	justify-content: center;
+}
+
+section{
+	height: 537px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #97a6ae;
+}
+
+.caixa{
+	width: 300px;
+	height: 250px;
+	background-color: #cddbe3;
+	border: solid 1px #35464e;
+	border-radius: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.caixa_uni{
+	padding: 10px;
+}
+
+input{	
+	border: solid 1px #35464e;
+    border-radius: 4px;
+    height: 30px;
+    font-family: tahoma;
+    font-size: 23px;
+    text-align: center;
+}
+
+.botao{
+	width: 80px;
+	height: 30px;
+	border: solid 1px #35464e;
+	font-size: 14px;
+	text-align: center;
+	background-color: #35464e;
+	color: #eef0ff;
+}
+
+.botao:hover{
+	background-color: #1f38f0;
+	color: #FFF;
+}
+
+footer{
+	height: 50px;
+	background-color: #35464e;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #eef0ff;
+}

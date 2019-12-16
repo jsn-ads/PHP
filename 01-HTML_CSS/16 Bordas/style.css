@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+}
+
+.div{
+	
+	color: #000000;
+	width: 200px;
+	height: 200px;
+	border: 3px solid #FF0000;
+	float: left;
+}
+
+.div2{
+	
+	color: #000000;
+	width: 200px;
+	height: 200px;
+	border: 3px dotted #00FF00;
+	border-radius: 100px;
+	float: left;
+}
+
+.img{
+	border: 3px solid #00FF00;
+	width: 300px;
+	height: 300px;
+	border-radius: 150px; 
+}

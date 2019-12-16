@@ -1,0 +1,29 @@
+<cidade>
+    <nome>Goias</nome>
+    <uf>GO</uf>
+    <atualizacao>12-07-2019</atualizacao>
+    <manha>
+        <dia>12-07-2019</dia>
+        <agitacao>fraco</agitacao>
+        <altura>1.5</altura>
+        <direcao>E</direcao>
+        <vento>7.6</vento>
+        <vento_dir>NE</vento_dir>
+    </manha>
+    <tarde>
+        <dia>12-07-2019</dia>
+        <agitacao>fraco</agitacao>
+        <altura>1.4</altura>
+        <direcao>E</direcao>
+        <vento>7.9</vento>
+        <vento_dir>ENE</vento_dir>
+    </tarde>
+    <noite>
+        <dia>12-07-2019</dia>
+        <agitacao>fraco</agitacao>
+        <altura>1.6</altura>
+        <direcao>E</direcao>
+        <vento>8.2</vento>
+        <vento_dir>ENE</vento_dir>
+    </noite>
+</cidade>

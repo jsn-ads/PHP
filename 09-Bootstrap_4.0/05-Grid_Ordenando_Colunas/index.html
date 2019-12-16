@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Grid Ordenando Colunas</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css">
+	<style type="text/css">
+		.row [class^=col-], .row .col{
+			background-color: #ddd;
+			border: 1px solid #ccc;
+		}
+	</style>
+</head>
+<body>
+	<div class="container-fuild">
+		<div class="row">
+			<div class="col-sm">Area 1</div>
+			<div class="col-sm order-last">Area 2</div>
+			<div class="col-sm order-first">Area 3</div>
+			<div class="col-sm">Area 4</div>
+			<div class="col-sm">Area 5</div>
+		</div>
+		<div class="row">
+			<div class="col-sm order-4">Teste 1</div>
+			<div class="col-sm order-2">Teste 2</div>
+			<div class="col-sm order-3">Teste 3</div>
+			<div class="col-sm order-1">Teste 4</div>
+			<div class="col-sm order-5">Teste 5</div>
+		</div>
+		<div class="row">
+			<div class="col-sm">Area 1</div>
+			<div class="col-sm">Area 2</div>
+			<div class="col-sm order-3">Area 3</div>
+			<div class="col-sm order-1">Area 4</div>
+			<div class="col-sm order-2">Area 5</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="../jquery.min.js"></script>
+	<script type="text/javascript" src="../bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+<!--
+	order-last -> deixa a coluna na ultima posição
+	order-first -> deixa a coluna na primeira ordem
+	order-> define qual posição vc quer e a coluna fique 
+-->

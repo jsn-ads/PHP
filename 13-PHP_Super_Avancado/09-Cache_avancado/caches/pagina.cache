@@ -1,0 +1,173 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script  type="text/javascript" src="../assets/js/jquery.min.js"></script>
+    <script  type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <div class="corpo">
+        <div class="container">
+                            <div class="texto" style="background-color:#478025">
+                    <strong>Noruega rejeita proposta de Salles para mudar Fundo Amazônia</strong>
+                </div>
+                            <div class="texto" style="background-color:#591345">
+                    <strong>Em 6 meses de Doria, poucos projetos saem do papel em SP</strong>
+                </div>
+                            <div class="texto" style="background-color:#615807">
+                    <strong>Bolsonaro indica Carlos Velloso Filho para o Tribunal Superior Eleitoral</strong>
+                </div>
+                            <div class="texto" style="background-color:#692001">
+                    <strong>Agricultura analisa alta de 88% no desmate da Amazônia, diz ministra</strong>
+                </div>
+                            <div class="texto" style="background-color:#104047">
+                    <strong>Relator do pacote anticrime relata homens armados perto de sua casa</strong>
+                </div>
+                            <div class="texto" style="background-color:#559369">
+                    <strong>Novos diálogos sugerem que Moro teria orientado Lava Jato, diz revista</strong>
+                </div>
+                            <div class="texto" style="background-color:#469071">
+                    <strong>Senador pede que Moro e Guedes expliquem ação contra jornalista</strong>
+                </div>
+                            <div class="texto" style="background-color:#452311">
+                    <strong>91% das empresas contratariam profissionais com mais de 50 anos, diz pesquisa</strong>
+                </div>
+                            <div class="texto" style="background-color:#843487">
+                    <strong>Desmatamento na Amazônia aumenta 15% e chega a 4.565 km²</strong>
+                </div>
+                            <div class="texto" style="background-color:#354921">
+                    <strong>Presidentes de TREs se reúnem para debater o sistema político-eleitoral</strong>
+                </div>
+                            <div class="texto" style="background-color:#113167">
+                    <strong>Chuva em SP causa alagamentos e interdita Marginal Tietê e trecho da Anhanguera</strong>
+                </div>
+                            <div class="texto" style="background-color:#729067">
+                    <strong>Comissão abre sessão para tentar votar texto da Previdência</strong>
+                </div>
+                            <div class="texto" style="background-color:#524820">
+                    <strong>Comissão rejeita destaque sobre aposentadoria de professores</strong>
+                </div>
+                            <div class="texto" style="background-color:#227128">
+                    <strong>Comissão da reforma da Previdência rejeita mais mudanças em parecer</strong>
+                </div>
+                            <div class="texto" style="background-color:#593174">
+                    <strong>A rede de falsários que explora imigrantes haitianos no Brasil</strong>
+                </div>
+                            <div class="texto" style="background-color:#974488">
+                    <strong>Acordo prevê mudanças para policiais, a pedido de Bolsonaro</strong>
+                </div>
+                            <div class="texto" style="background-color:#67090">
+                    <strong>Congresso autoriza crédito para bônus a servidores do INSS</strong>
+                </div>
+                            <div class="texto" style="background-color:#315685">
+                    <strong>Prêmio de R$ 35 milhões da Mega-Sena sai para aposta de São Paulo</strong>
+                </div>
+                            <div class="texto" style="background-color:#710603">
+                    <strong>Reforma pode incluir Estados e Municípios no plenário</strong>
+                </div>
+                            <div class="texto" style="background-color:#473762">
+                    <strong>General de Exército Marcos Amaro assume Comando Militar do Sudeste</strong>
+                </div>
+                            <div class="texto" style="background-color:#804730">
+                    <strong>Projeto obriga motorista bêbado que causar acidente a pagar o SUS </strong>
+                </div>
+                            <div class="texto" style="background-color:#373102">
+                    <strong>Ramos abre processo de votação de relatório da Previdência</strong>
+                </div>
+                            <div class="texto" style="background-color:#151017">
+                    <strong>Maia: Plenário inicia discussão e vota reforma na semana que vem</strong>
+                </div>
+                            <div class="texto" style="background-color:#986696">
+                    <strong>Acordo com UE já traz impacto positivo, diz chanceler</strong>
+                </div>
+                            <div class="texto" style="background-color:#613803">
+                    <strong>Congresso autoriza compra de carros blindados para a Presidência</strong>
+                </div>
+                            <div class="texto" style="background-color:#784902">
+                    <strong>Lamborghini de Eike e lancha de Cabral vão a leilão hoje no Rio</strong>
+                </div>
+                            <div class="texto" style="background-color:#688498">
+                    <strong>Bolsonaro, à bancada ruralista: 'Este governo é de vocês'</strong>
+                </div>
+                            <div class="texto" style="background-color:#907223">
+                    <strong>Guedes vê potência fiscal na reforma para tentar capitalização</strong>
+                </div>
+                            <div class="texto" style="background-color:#458798">
+                    <strong>Cidades de SC registram temperaturas negativas e geada nesta sexta-feira</strong>
+                </div>
+                            <div class="texto" style="background-color:#968324">
+                    <strong>Fiz "excelente proposta" e policiais não aceitaram, lamenta Bolsonaro</strong>
+                </div>
+                            <div class="texto" style="background-color:#250582">
+                    <strong>Comissão rejeita dois destaques sobre aposentadoria de policiais</strong>
+                </div>
+                            <div class="texto" style="background-color:#478022">
+                    <strong>Rodovia dos Tamoios é interditada no trecho de serra por risco de queda de barreiras</strong>
+                </div>
+                            <div class="texto" style="background-color:#419317">
+                    <strong>Em carta, Léo Pinheiro diz que não sofreu coação para delatar Lula</strong>
+                </div>
+                            <div class="texto" style="background-color:#332725">
+                    <strong>Texto da reforma não trará regra mais branda para policiais, diz Maia</strong>
+                </div>
+                            <div class="texto" style="background-color:#227733">
+                    <strong>Guedes vê potência fiscal na reforma para tentar capitalização</strong>
+                </div>
+                            <div class="texto" style="background-color:#457811">
+                    <strong>Bolsonaro fez chegar a Maia 'percepção' sobre policiais</strong>
+                </div>
+                            <div class="texto" style="background-color:#177051">
+                    <strong>Aérea argentina Flybondi começa operar no Brasil a partir de outubro</strong>
+                </div>
+                            <div class="texto" style="background-color:#427674">
+                    <strong>Explosão de um carro deixa três mortos na Turquia</strong>
+                </div>
+                            <div class="texto" style="background-color:#733470">
+                    <strong>'Temos dois anos para reduzir e eliminar impostos', diz Guedes</strong>
+                </div>
+                            <div class="texto" style="background-color:#597771">
+                    <strong>Reforma da Previdência: veja as próximas etapas da tramitação após a comissão especial</strong>
+                </div>
+                            <div class="texto" style="background-color:#565351">
+                    <strong>Bolsonaro foi 'ingênuo' ao tentar regra suave para polícia, diz Guedes</strong>
+                </div>
+                            <div class="texto" style="background-color:#371743">
+                    <strong>Ramos abre processo de votação de relatório da Previdência</strong>
+                </div>
+                            <div class="texto" style="background-color:#338222">
+                    <strong>Consumidor poderá bloquear ligações de telemarketing; veja como funciona</strong>
+                </div>
+                            <div class="texto" style="background-color:#751997">
+                    <strong>Casal faz pacientes e funcionários de clínica reféns em assalto na Zona Norte de SP; veja vídeo</strong>
+                </div>
+                            <div class="texto" style="background-color:#525968">
+                    <strong>STF vai julgar em agosto recurso de Lula de ação sobre instituto</strong>
+                </div>
+                            <div class="texto" style="background-color:#276876">
+                    <strong>Líder do governo admite mudanças na PEC da Previdência, mas 'sem aventura' no plenário</strong>
+                </div>
+                            <div class="texto" style="background-color:#885679">
+                    <strong>Reforma da Previdência tem dia decisivo nesta quinta após pressão</strong>
+                </div>
+                            <div class="texto" style="background-color:#28512">
+                    <strong>Acordo com UE já traz impacto positivo, diz chanceler</strong>
+                </div>
+                            <div class="texto" style="background-color:#126061">
+                    <strong>Comissão tira bombeiros e policiais militares da reforma da Previdência</strong>
+                </div>
+                            <div class="texto" style="background-color:#643020">
+                    <strong>PF abre inquérito para investigar sargento da FAB preso com cocaína</strong>
+                </div>
+                            <div class="texto" style="background-color:#643726">
+                    <strong>Relator mantém em 55 anos idade para aposentadoria de policiais</strong>
+                </div>
+                    </div>
+    </div>
+</body>
+</html>

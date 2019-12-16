@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+}
+
+.texto{
+	width: 50%;
+	height: 100px;
+	background-color: #eeeeee;
+	color: #00FF00; 
+	font-size: 40px; 
+	font-family: helvetica, verdana;
+	font-weight: bold;	
+	text-align: center;
+	text-transform: lowercase;
+	text-decoration: underline;
+}
+
+/*
+font-size = tamanho de fonte;
+font-family = tipo de fonte;
+font-weight = deixa fonte em negrito;
+text-aling = posiciona o texto;
+text-transform =  deixa o texto maiusculo ou minusculo;
+text-decoration = sublinha o texto; 
+*/
+

@@ -1,0 +1,21 @@
+.b1{
+    width: 100px;
+    height: 30px;
+    background-color: aqua;
+    border: solid 1px black;
+}
+
+.b2{
+    width: 100px;
+    height: 30px;
+    background-color: fuchsia;
+    border: solid 1px black;
+}
+
+
+.div{
+    width: 204px;
+    height: 204px;
+    background-color: blueviolet;
+    margin-top: 2px;
+}

@@ -1,0 +1,26 @@
+.teste{
+	width: 200px;
+	height: 200px;
+	background-color: #ddd;
+	margin: auto;
+	margin-top: 100px;
+	transition: all 1s linear;
+}
+
+.teste:hover{
+	width: 400px;
+	background-color: red;
+}
+
+
+
+.a{
+	font-size: 25px;
+	color: #000000;
+	margin-left: 600px;
+	transition: all 1s linear;
+}
+
+.a:hover{
+	color: blue;
+}
