@@ -28,6 +28,7 @@
                             echo $value."<br>";
                         }
                     }
+                    session_destroy();
                 ?>
             </div>
         </form>

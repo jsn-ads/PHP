@@ -57,5 +57,7 @@
         $_SESSION['result'] = $result;
 
         header('Location:index.php');
+    }else{
+        header('Location:index.php');
     }
 ?>
