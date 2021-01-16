@@ -2,10 +2,25 @@ function Animal(){
     
     this.raca = "";
     this.nome = "";
-    this.idade = "";
-    this.peso = "";
+    this.idade = 1;
+    this.peso = 1;
+
+    this.fazerBarulho = function(){
+        console.log("quiquuiququqiquqiuqiqui");
+    }
+
+    this.comer = function(kg){
+        console.log("hum...");
+        this.peso = this.peso + (kg / 2); 
+    }
+
+
 }
 
-var animal = new Animal();
+var a = new Animal();
 
-var animal2 = new Animal();
+a.nome = "Gorducha";
+
+var b = new Animal();
+
+b.nome = "Magrela";
