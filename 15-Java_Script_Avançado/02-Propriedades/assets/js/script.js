@@ -10,10 +10,18 @@ function Animal(){
     }
 
     this.comer = function(kg){
+
+        for (let i = 0; i < kg; i++) {
+            this.mastigar(i);            
+        }
+
         console.log("hum...");
         this.peso = this.peso + (kg / 2); 
     }
 
+    this.mastigar = function(i){
+        console.log(i+" - Nhoc...");
+    }
 
 }
 
